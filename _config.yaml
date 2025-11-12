@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@BrainTsunamis.com
+  email: eqb2ts@uvahealth.com
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: -zdSXzQAAAAJ
   github: BrainTsunamis
-  twitter: BrainTsunamis
-  youtube: BrainTsunamis
+  twitter: Null
+  youtube: Null
 
 ### jekyll settings
 
