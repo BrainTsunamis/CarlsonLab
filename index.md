@@ -1,9 +1,9 @@
 ---
 ---
 
-# BrainTsunamis's Website
+# Carlson lab at University of Virginia
 
-An engaging 1-3 sentence description of your lab.
+We investigate spreading depolarizations (SDs), massive waves of brain silencing that are a key mechanism of secondary injury after stroke and trauma. Our team uses cutting-edge brain monitoring in the Neuro-ICU to understand what triggers these events and how to stop them, creating a foundation for a new generation of neuroprotective therapies.
 
 {% include section.html %}
 
