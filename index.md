@@ -1,7 +1,7 @@
 ---
 ---
 
-# Carlson lab at University of Virginia
+# Decoding Spreading Depolarizations in Acute Brain Injury
 
 We investigate spreading depolarizations (SDs), massive waves of brain silencing that are a key mechanism of secondary injury after stroke and trauma. Our team uses cutting-edge brain monitoring in the Neuro-ICU to understand what triggers these events and how to stop them, creating a foundation for a new generation of neuroprotective therapies.
 
